@@ -8,5 +8,5 @@ Classes, exception checking. Simulates a coffee shop experience (new customers, 
   
 ## Screenshots
 ### Gameplay
-![Gameplay]
+![Gameplay](https://github.com/jennifer-hy-li/Coffee-Klatch/blob/main/Screen%20Shot%202021-08-16%20at%201.31.40%20PM.png)
 
