@@ -8,5 +8,5 @@ Classes, exception checking. Simulates a coffee shop experience (new customers, 
   
 ## Screenshots
 ### Gameplay
-
+![Gameplay]
 
